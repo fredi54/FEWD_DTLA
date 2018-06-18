@@ -1,0 +1,33 @@
+body {
+	background: #000;
+	text-align: center;
+}
+
+/* Hide both images by default */
+img {
+	display: none;
+}
+
+button {
+	padding: 20px 40px;	
+	font-size: 30px;
+	border-radius: 5px;
+	background-color: #ececec;
+}
+
+.bulbs-container {
+	margin: 80px auto;
+	width: 150px;
+	text-align: center;
+}
+
+/* Show the bulb when the "light-on" class is applied */
+body.light-on #bulb-on{
+	display: block;
+}
+
+/* Show the bulb when the "light-off" class is applied */
+body.light-off #bulb-off{
+	display: block;
+}
+

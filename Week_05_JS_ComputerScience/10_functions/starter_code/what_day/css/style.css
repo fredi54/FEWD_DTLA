@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+}
+
+
+button {
+	padding: 20px 40px;	
+	font-size: 30px;
+	border-radius: 5px;
+	background-color: #ececec;
+}
+
+button.active {
+	background-color: #90C3D4;
+}
