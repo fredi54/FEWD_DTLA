@@ -1,0 +1,25 @@
+body {
+	background: url("http://www.lifetimeliquidations.com/wp-content/uploads/2013/09/seamless-paper-texture-light-blue-gray.jpg");
+}
+
+h1 {
+	color: red;
+	font-family: 'arial';
+	text-align: center;
+}
+
+p {
+	color: blue;
+	font-size: 32px;
+}
+
+li {
+	color: green;
+}
+
+a {
+	color: cadetblue;	
+    text-decoration: none;
+    border-bottom: 3px dashed;	
+}
+
